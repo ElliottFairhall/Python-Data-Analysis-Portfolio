@@ -13,6 +13,15 @@ Python Notebooks will be broken down into three key sections:
 
 3. **Applications** - Developing my understanding of syntax, project design and ultimately build practical things to maintain motivation and understand the wider practical use of Python within the technology landscape. 
 
+## Data Analysis 
+
+Currently in development.....
+
+
+## Data Engineering
+
+Currently in development.....
+
 ## Applications 
  
  [Weather Application](https://github.com/ElliottFairhall/Python-Data-Analysis-Portfolio/blob/main/Weather_Application.ipynb) - A breakdown of using Python to conduct HTML scraping, storing this information and providing a simple simple way to gather weather information based on a users input about their city.   
